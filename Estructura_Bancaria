@@ -309,7 +309,7 @@ void crear(struct clientes cliente[50])
 
 void gerente(struct clientes cliente[50])
 {
-
+    printf("Prueba trabajo en grupo");//Borrar esta linea, es de prueba 
 }
 int main()
 {
